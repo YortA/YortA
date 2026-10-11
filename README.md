@@ -18,6 +18,14 @@
 
 ### OTHER
 ![C](https://img.shields.io/badge/-C-9e42f5?style=for-the-badge)
+![C++](https://img.shields.io/badge/-C-426cf5?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/-C-a8d11f?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/-C-e0771b?style=for-the-badge)
+![x64dbg](https://img.shields.io/badge/-C-c43131?style=for-the-badge)
+![PCILeech](https://img.shields.io/badge/-C-31c49d?style=for-the-badge)
+
+![Ollama](https://img.shields.io/badge/-C-f2faf8?style=for-the-badge)
+![Docker](https://img.shields.io/badge/-C-00c6f2?style=for-the-badge)
 
 ### Games
 ![UNITY](https://img.shields.io/badge/-UNITY-c?style=for-the-badge&color=%238c8c8c)
