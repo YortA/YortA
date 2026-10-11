@@ -17,7 +17,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-c?style=for-the-badge&color=%23dbb127)
 
 ### OTHER
-![C](https://img.shields.io/badge/-C-c?style=for-the-badge&color=%9e42f5)
+![C](https://img.shields.io/badge/-C-9e42f5?style=for-the-badge)
 
 ### Games
 ![UNITY](https://img.shields.io/badge/-UNITY-c?style=for-the-badge&color=%238c8c8c)
